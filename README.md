@@ -43,14 +43,6 @@ This repository contains an e-commerce recommendation system built using Intel O
 
 2. Access the recommendation results through the provided API endpoints.
 
-## Contributing
 
-Contributions are welcome! Please follow the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines.
-
-## License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
----
 
 
