@@ -9,7 +9,7 @@ This repository contains an e-commerce recommendation system built using Intel O
 - **Recommendation Engine**: Uses neural networks to analyze user behavior and recommend relevant products.
 - **Intel OpenVINO™ Integration**: Optimizes deep learning inference across Intel® hardware (including accelerators) for maximum performance.
 - **Scalability**: Supports heterogeneous execution across CPU, GPU, Intel® Movidius™ Neural Compute Stick, and FPGA.
-- **Common API**: Provides a common API for CNN-based deep learning inference.
+- **oneAPI**: Provides a API for CNN-based deep learning inference.
 
 ## Prerequisites
 
@@ -21,8 +21,8 @@ This repository contains an e-commerce recommendation system built using Intel O
 1. Clone this repository:
 
     ```
-    git clone https://github.com/yourusername/e-commerce-recommendation.git
-    cd e-commerce-recommendation
+    git clone https://github.com/TECHBROS00/TechBros.git
+    cd TechBros
     ```
 
 2. Install dependencies:
@@ -55,7 +55,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 Feel free to modify this README to include specific instructions, usage examples, and additional details about your e-commerce recommendation system. Happy coding! 😊
 
-Source: Conversation with Bing, 28/3/2024
+
 (1) GitHub - intel/ros_openvino_toolkit. https://github.com/intel/ros_openvino_toolkit.
 (2) Download Intel® Distribution of OpenVINO™ Toolkit. https://www.intel.com/content/dam/develop/public/us/en/include/openvino-download-ih/selector-0290a24.html.
 (3) Intel® FPGA AI Suite melds with OpenVINO™ toolkit to generate .... https://community.intel.com/t5/Blogs/Products-and-Solutions/FPGA/Intel-FPGA-AI-Suite-melds-with-OpenVINO-toolkit-to-generate/post/1390694.
