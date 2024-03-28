@@ -43,7 +43,9 @@ This repository contains an e-commerce recommendation system built using Intel O
 
 2. Access the recommendation results through the provided API endpoints.
 
-4. UI(UserInterface):
+3. UI(UserInterface):
+
+
 
    ![image](https://github.com/TECHBROS00/TechBros/assets/165239177/4ec70077-e8b3-4950-a310-fb01d5c33ef1)
 
