@@ -53,12 +53,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ---
 
-Feel free to modify this README to include specific instructions, usage examples, and additional details about your e-commerce recommendation system. Happy coding! 😊
 
-
-(1) GitHub - intel/ros_openvino_toolkit. https://github.com/intel/ros_openvino_toolkit.
-(2) Download Intel® Distribution of OpenVINO™ Toolkit. https://www.intel.com/content/dam/develop/public/us/en/include/openvino-download-ih/selector-0290a24.html.
-(3) Intel® FPGA AI Suite melds with OpenVINO™ toolkit to generate .... https://community.intel.com/t5/Blogs/Products-and-Solutions/FPGA/Intel-FPGA-AI-Suite-melds-with-OpenVINO-toolkit-to-generate/post/1390694.
-(4) Realtime Recommendations in Retail using OpenVINO™ - Medium. https://medium.com/intel-software-innovators/realtime-recommendations-in-retail-using-openvino-dcfa40743509.
-(5) GitHub - openvinotoolkit/openvino: OpenVINO™ is an open-source toolkit .... https://github.com/openvinotoolkit/openvino.
-(6) undefined. https://github.com/intel/ros_openvino_toolkit/tree/dev-ov2021.4/doc/ZH-CN.
