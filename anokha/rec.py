@@ -18,7 +18,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load the dataset
-df = pd.read_csv('C:\\Users\\DELL\\Desktop\\anokha\\amazon.csv')
+df = pd.read_csv('.\amazon.csv')
 pd.set_option('display.max_colwidth', 60)
 df.head()
 
